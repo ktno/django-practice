@@ -1,7 +1,7 @@
 # django-practice
 ### Todos
 - model
-- [ ] https://www.youtube.com/watch?v=r9kT-jm136Q
+- [x] The Basics of Django Models – https://www.youtube.com/watch?v=r9kT-jm136Q
 - [ ] https://docs.djangoproject.com/en/3.1/topics/db/models/
 - view
 - [ ] https://www.youtube.com/watch?v=0hIMiq0YZSc
